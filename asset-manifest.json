@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Bootcamp_capstone3/static/css/main.760d6a0d.css",
+    "main.js": "/Bootcamp_capstone3/static/js/main.4c8e8f86.js",
+    "static/media/langdingPage.png": "/Bootcamp_capstone3/static/media/langdingPage.809f205eef0595f671e6.png",
+    "index.html": "/Bootcamp_capstone3/index.html",
+    "main.760d6a0d.css.map": "/Bootcamp_capstone3/static/css/main.760d6a0d.css.map",
+    "main.4c8e8f86.js.map": "/Bootcamp_capstone3/static/js/main.4c8e8f86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.760d6a0d.css",
+    "static/js/main.4c8e8f86.js"
+  ]
+}
